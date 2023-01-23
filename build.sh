@@ -3,3 +3,4 @@
 ./stop.sh
 
 ./gradlew build "$@"
+
